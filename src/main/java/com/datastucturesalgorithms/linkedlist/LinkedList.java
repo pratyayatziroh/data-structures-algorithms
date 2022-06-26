@@ -1,8 +1,8 @@
-package com.datastucturesalgorithms.linkedlist;
-
 /*
     Author - Pratyay Ganguli
 * */
+
+package com.datastucturesalgorithms.linkedlist;
 
 public class LinkedList {
     private Node head;
